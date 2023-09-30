@@ -4,11 +4,11 @@
     font-family: Arial, Helvetica, sans-serif ;
 }
 
-body {
+/*body {
     background-image: url(naruto.jpg);
     background-size: cover;
     background-position: top center;
-}
+}*/
 
 header {
     padding: 1rem 0.8rem;
